@@ -15,8 +15,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         
         <!-- SonarQube Configuration -->
-        <sonar.projectKey>Simple-Calculator</sonar.projectKey>
-        <sonar.projectName>Simple Calculator</sonar.projectName>
+        <sonar.projectKey>sonar-maven-jenkins</sonar.projectKey>
+        <sonar.projectName>sonar-maven-jenkins</sonar.projectName>
         <sonar.host.url>http://localhost:9000</sonar.host.url>
     </properties>
 
